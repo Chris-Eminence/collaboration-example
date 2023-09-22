@@ -1,6 +1,10 @@
 Everybody should edit this
 <<<<<<< HEAD
+<<<<<<< HEAD
+Ekemini edited
+=======
 Jehoram Edited
+>>>>>>> 5c02821fd22dfd64ce9c2726a4ff0fdb8263094c
 =======
 <<<<<<< HEAD
 Ofofon Edited
